@@ -1,0 +1,112 @@
+body {
+  background-color: #131921;
+  color: #0f1111;
+}
+
+.cabeca {
+    background-color: #131921;
+    color: white;
+    padding: 15px;
+}
+ .barra {
+    background-color: #232f3e;
+    padding: 10px;
+}
+
+.barra a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
+.resenhudos-box {
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+  padding: 20px 30px;
+}
+
+.resenhudos-link {
+  color: #007185;
+  text-decoration: none;
+}
+
+.produto-img {
+  max-width: 130px;
+  max-height: 160px;
+  object-fit: contain;
+}
+.side-img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+}
+
+.price-main {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1;
+}
+.price-main sup {
+  font-size: 0.75rem;
+  top: -0.3em;
+}
+.badge-green {
+  background-color: #007600;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.75rem;
+  padding: 2px 6px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.qty-pill {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #d5d9d9;
+  border-radius: 20px;
+  background-color: #f0f2f2;
+  box-shadow: 0 2px 5px rgba(15,17,17,.15);
+  padding: 2px 8px;
+}
+
+.btn-qty {
+  border: none;
+  background: transparent;
+  padding: 0 4px;
+  color: #0f1111;
+  font-size: 0.85rem;
+}
+.btn-qty:hover {
+  color: #c7511f;
+}
+
+.btn-resenhudos-yellow {
+  width: 100%;
+  background-color: #ffd814;
+  border: 1px solid #fcd200;
+  border-radius: 20px;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #0f1111;
+  box-shadow: 0 2px 5px rgba(213,217,217,.5);
+}
+.btn-resenhudos-yellow:hover {
+  background-color: #f7ca00;
+  border-color: #f2c200;
+}
+
+.extra-small {
+  font-size: 0.75rem;
+}
+
+.rodape {
+  background-color: #232f3e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+}

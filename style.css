@@ -1,0 +1,49 @@
+body {
+            background-color: #e3e6e6;
+        }
+
+        .cabeca {
+            background-color: #131921;
+            color: white;
+            padding: 15px;
+        }
+
+        .barra {
+            background-color: #232f3e;
+            padding: 10px;
+        }
+
+        .barra a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+        }
+
+        .produto {
+            height: 100%;
+            transition: 0.3s;
+        }
+
+        .produto:hover {
+            box-shadow: 0 0 10px gray;
+        }
+
+        .produto img {
+            height: 180px;
+            object-fit: contain;
+            padding: 10px;
+        }
+
+        .preco {
+            color: #b12704;
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .rodape {
+            background-color: #131921;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 30px;
+        }

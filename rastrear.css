@@ -1,0 +1,46 @@
+.cabeca {
+    background-color: #131921;
+    color: white;
+}
+
+.barra {
+    background-color: #232f3e;
+}
+
+.barra a {
+    color: white;
+    text-decoration: none;
+}
+
+.barra a:hover {
+    color: #ffc107;
+}
+
+.rodape {
+    background-color: #131921;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.btn-pesquisar {
+    background-color: #111;
+    color: #0b2d5c;
+    border: 1px solid #0b2d5c;
+    font-weight: 600;
+}
+
+.btn-pesquisar:hover {
+    background-color:#0b2d5c;
+    color: #111;
+}
+
+.link-resenhudos {
+  color: #007185;
+}
+
+.link-resenhudos:hover {
+  color: #c7511f;
+  text-decoration: underline !important;
+}

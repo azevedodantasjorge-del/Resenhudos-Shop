@@ -1,0 +1,37 @@
+.cabeca {
+    background-color: #131921;
+    color: white;
+    padding: 15px;
+}
+ .barra {
+    background-color: #232f3e;
+    padding: 10px;
+}
+
+.barra a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.produto{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+.tablet{
+    display: flex;
+}
+
+.tablet img {
+    width: 75%;
+    height: auto;
+}
+
+.rodape {
+    background-color: #131921;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+

@@ -1,0 +1,39 @@
+
+body {
+    background-color: #e3e6e6;
+}
+
+.topo {
+    background-color: #131921;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.login {
+    background-color: white;
+    width: 100%;
+    max-width: 400px;
+    margin: 60px auto;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px gray;
+}
+
+.login h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.login button {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.rodape {
+    background-color: #131921;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}

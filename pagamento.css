@@ -1,0 +1,49 @@
+
+body {
+    background-color: #e3e6e6;
+}
+
+.topo {
+    background-color: #131921;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.area-pagamento {
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px gray;
+}
+
+.area-pagamento h4 {
+    margin-bottom: 20px;
+}
+
+.resumo {
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px gray;
+}
+
+.resumo img {
+    width: 100%;
+    height: 180px;
+    object-fit: contain;
+    margin: 15px 0;
+}
+
+.preco {
+    color: #b12704;
+    font-weight: bold;
+}
+
+.rodape {
+    background-color: #131921;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
